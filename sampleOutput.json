@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "the-huffington-post", "name": "The Huffington Post" },
+      "author": "Nick Visser",
+      "title": "Washington Names Its NFL Team The Commanders, Video Appears To Show",
+      "description": "New branding seems to be up already inside the football team's FedEx Field.",
+      "url": "https://www.huffpost.com/entry/washington-commanders-nfl-team-new-name_n_61f9d23ce4b084213da0ea05",
+      "urlToImage": "https://img.huffingtonpost.com/asset/61f9d4c5250000ae182b0f34.jpeg?cache=FlZbJboEr1&ops=1778_1000",
+      "publishedAt": "2022-02-02T01:05:23Z",
+      "content": "Helmets from the Washington Football Team hadn't had a logo to sport.\r\nWashington, D.C., may have a newly named football team: the Washington Commanders.\r\nVideo footage taken from outside the teams F… [+835 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Mark SchlabachESPN Senior Writer ",
+      "title": "Despite strong recruiting class, Ole Miss football coach Lane Kiffin concerned players will 'go where they're paid the most' in NIL era",
+      "description": "Despite a strong recruiting class, and a crop of talented players headed to Ole Miss via the transfer portal, Rebels coach Lane Kiffin expressed concern for college football in the NIL era, saying programs are now \"dealing with different salary caps.\"",
+      "url": "http://espn.go.com/college-football/story/_/id/33195473/despite-strong-recruiting-class-ole-miss-football-coach-lane-kiffin-concerned-players-go-where-paid-most-nil-era",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0201%2Fr968734_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-02-01T23:17:00Z",
+      "content": "After landing two of the most coveted transfers in college football, former USC quarterback Jaxson Dart and TCU running back Zach Evans, the Ole Miss Rebels have a Top 25 recruiting class heading int… [+2938 chars]"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "Anish Dogra",
+      "title": "West Ham’s star midfielder Declan Rice ‘is going to leave’ without Champions League football as Hammers are...",
+      "description": "If talks are to be believed, Declan Rice will be leaving soon",
+      "url": "https://talksport.com/football/1032795/west-ham-declan-rice-transfers-man-united-chelsea/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2022/01/NINTCHDBPICT000706831768-e1643662403798.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+      "publishedAt": "2022-02-01T21:14:56Z",
+      "content": "West Ham could face a double blow in summer, as the club have been warned Declan Rice ‘will leave’ if they do not secure Champions League football.\r\nThe Hammers are enjoying a superb season under Dav… [+2941 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "FOX Sports",
+      "title": "Caleb Williams to USC continues 'Oklahoma West' transformation",
+      "description": "Caleb Williams' transfer to USC is another sign that college football loyalty is to individuals, not to teams, writes RJ Young.",
+      "url": "http://www.foxsports.com/stories/college-football/caleb-williams-to-usc-continues-oklahoma-west-transformation",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/1408/814/2.1.22_Caleb-Williams-to-USC_CFB-16x9-final.jpg?ve=1&tl=1",
+      "publishedAt": "2022-02-01T18:33:16Z",
+      "content": "By RJ Young\r\nFOX Sports College Football Writer\r\nAfter a month of speculation and rumor following quarterback Caleb Williams' decision to enter into the NCAA transfer portal, he announced his decisio… [+6537 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "BBC News",
+      "title": "Mason Greenwood: Man Utd footballer further arrested over sex assault",
+      "description": "The Man United player is being questioned over an alleged rape, sexual assault and threats to kill.",
+      "url": "http://www.bbc.co.uk/news/uk-england-manchester-60202000",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1118/production/_123067340_gettyimages-1358481321.jpg",
+      "publishedAt": "2022-02-01T17:37:21.7277713Z",
+      "content": "Image source, Getty Images\r\nImage caption, The 20-year-old striker, who made his debut for the club in March 2019, was arrested on Sunday\r\nManchester United footballer Mason Greenwood has been furthe… [+1731 chars]"
+    } 
+  ]
+}
